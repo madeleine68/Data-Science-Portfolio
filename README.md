@@ -3,3 +3,5 @@ This repository contain projects I worked on which completed by me for self lear
 
 ## Projects:
 [Multiple Regression](https://github.com/madeleine68/Data-Science-Portfolio/edit/master/Multiple%20Regression)
+`library(ggplot2)
+ggplot() +`
