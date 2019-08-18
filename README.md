@@ -3,4 +3,4 @@ This repository contain projects I worked on which completed by me for self lear
 
 ## Projects:
 [Multiple Regression](https://github.com/madeleine68/Multiple-Regression)
-[Polynomial Regression](https://github.com/madeleine68/Polynomial-Regression)
+[Polynomial Regression](https://github.com/madeleine68/Data-Science-Portfolio/blob/master/Polynomial-Regression)
